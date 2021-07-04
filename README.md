@@ -1,4 +1,4 @@
-# Hello :wave: 
+# Hi there :wave: 
 * 2019.05 ~ 2020.12 :turtle:
 * 2021.03 ~ Studying :book:
 
